@@ -19,6 +19,7 @@
   - [Battery](battery)
   - [3D Printed Enclosure](3d-printed-enclosure)
   - [External Antenna Mod](external-antenna-mod)
+  - [Disable Touch](disable-touch)
 - [Status Bar](status-bar)
 - [Commandline](cli)
   - [Headless Mode](headless-mode)
