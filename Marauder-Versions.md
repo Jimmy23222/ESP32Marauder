@@ -32,15 +32,6 @@ There are several different versions of Marauder I have developed. Each Marauder
 | HID attacks    | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                |
 | ESP8266 co-mcu | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                |
 
-## ESP32 Marauder v4
-This is the original ESP32 Marauder. The first Marauder which was available for purchase on Tindie. This is the second most fully featured, widely known, and widely available version of the Marauder.
-
-<p align="left">
-  <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/IMG_0124.JPG?raw=true" width="500">
-</p>
-
-The original Marauder only features a single ESP32 WROOM chip, a two piece 3D printed enclosure, Micro USB Charging and programming, and rechargeable LiPo battery. This is one of two versions which has been sold on Tindie as of 27APR2021.
-
 ## ESP32 Marauder v6
 Counter to what the name implies, this is the second official iteration of the ESP32 Marauder. The main differences between this iteration and its predecessor is its use of a push-in push-out micro SD card slot, single PCB design with the TFT fixed directly to the PCB, 18650 Battery holder, and an improved full enclosure. Aside from those aspects, the overall functionality of this version remains the same as the previous.  
 
