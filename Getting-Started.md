@@ -3,6 +3,7 @@ The ESP32 Marauder firmware can be installed on a wide range of ESP32 hardware. 
 
 ## Choose Your Path
 - Already have an ESP32 Marauder and want to know how to use it?
+    - [Marauder Hardware Explained](marauder-versions)
     - [Using the Marauder CLI](cli)
     - [Using the Marauder GUI](applications)
     - [Marauder Settings](marauder-settings)
