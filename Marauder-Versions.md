@@ -2,7 +2,7 @@
 There are several different versions of Marauder I have developed. Each Marauder has its own range of capabilities, some better than others. The following list describes each official version of the ESP32 Marauder.  
 
 ## Big Table of Features and stuff
-|                | v4 (OG)            | v6                 | v7                 | Kit                | Mini               | Flipper            |
+|                | v4 (OG)            | v6                 | v6.1               | Kit                | Mini               | Flipper            |
 | -------------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ |
 | Display        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:                |
 | Touch          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:                | :x:                |
@@ -20,9 +20,9 @@ There are several different versions of Marauder I have developed. Each Marauder
 | AP Select      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Manual SSID    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:(CLI Only) | :heavy_check_mark:(CLI Only) |
 | SD Update      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:(with mod) |
-| Status LED     | :x:                | :x: | :x:                | :x:                | :x:                | :heavy_check_mark: |
-| HID attacks    | :x:                | :x:                | :heavy_check_mark: | :x:                | :x:                | :x:                |
-| ESP8266 co-mcu | :x:                | :x:                | :heavy_check_mark: | :x:                | :x:                | :x:                |
+| Status LED     | :x:                | :x:                | :x:                | :x:                | :x:                | :heavy_check_mark: |
+| HID attacks    | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                |
+| ESP8266 co-mcu | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                |
 
 ## ESP32 Marauder v4 (OG)
 This is the original ESP32 Marauder. The first Marauder which was available for purchase on Tindie. This is the most fully featured, widely known, and widely available version of the Marauder.
