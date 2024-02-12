@@ -19,7 +19,6 @@ There are several different versions of Marauder I have developed. Each Marauder
 | Raw Capture    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | AP Select      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Manual SSID    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:(CLI Only) | :heavy_check_mark:(CLI Only) |
-| OTA Update     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | SD Update      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:(with mod) |
 | Status LED     | :x:                | :x: | :x:                | :x:                | :x:                | :heavy_check_mark: |
 | HID attacks    | :x:                | :x:                | :heavy_check_mark: | :x:                | :x:                | :x:                |
