@@ -1,6 +1,14 @@
 # Marauder Versions
 There are several different versions of Marauder I have developed. Each Marauder has its own range of capabilities, some better than others. The following list describes each official version of the ESP32 Marauder.  
 
+- [ESP32 Marauder v4](#esp32-marauder-v4)
+- [ESP32 Marauder v6](#esp32-marauder-v6)
+- [ESP32 Marauder Kit](#esp32-marauder-kit)
+- [ESP32 Marauder v6.1](#esp32-marauder-v6-1)
+- [ESP32 Marauder Mini](#esp32-marauder-mini)
+- [ESP32 LDDB](#esp32-lddb)
+- [Flipper Zero WiFi Dev Board Pro](#flipper-zero-wifi-dev-board-pro)
+
 ## Big Table of Features and stuff
 |                | v4 (OG)            | v6                 | v6.1               | Kit                | Mini               | Flipper            |
 | -------------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ |
@@ -24,8 +32,8 @@ There are several different versions of Marauder I have developed. Each Marauder
 | HID attacks    | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                |
 | ESP8266 co-mcu | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                |
 
-## ESP32 Marauder v4 (OG)
-This is the original ESP32 Marauder. The first Marauder which was available for purchase on Tindie. This is the most fully featured, widely known, and widely available version of the Marauder.
+## ESP32 Marauder v4
+This is the original ESP32 Marauder. The first Marauder which was available for purchase on Tindie. This is the second most fully featured, widely known, and widely available version of the Marauder.
 
 <p align="left">
   <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/IMG_0124.JPG?raw=true" width="500">
@@ -46,3 +54,14 @@ It's a kit
 <p align="left">
   <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/IMG_3491%20-%20Copy.jpg?raw=true" width="500">
 </p>
+
+## ESP32 Marauder v6.1
+
+
+## ESP32 Marauder Mini
+
+
+## ESP32 LDDB
+
+
+## Flipper Zero WiFi Dev Board Pro
