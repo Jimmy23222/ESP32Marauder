@@ -1,0 +1,4 @@
+# ESP32 Marauder v4
+The ESP32 Marauder v4 is the original first iteration of the official ESP32 Marauder hardware. The hardware was designed specifically to function with the ESP32 Marauder firmware as it featured a 2.8" TFT ILI9341 touch capable display, ESP32-WROOM module, and a 3.7V LiPo charging and management circuit. 
+
+The device can be interfaced through the 2.8" touch display where the user will have full access to the Marauder menu system and it's various WiFi and Bluetooth functions which are described in detail under the [specific functions list](https://github.com/justcallmekoko/ESP32Marauder/wiki/applications) as well as the [workflow documentation](https://github.com/justcallmekoko/ESP32Marauder/wiki/workflow-examples).
