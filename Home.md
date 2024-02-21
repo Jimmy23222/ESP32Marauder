@@ -21,7 +21,7 @@ If you are willing to show a little support, check out the following links:
 ## Store
 
 If you are willing to support me monetarily but still get stuff in return,  
-head over to my [tindie store](https://www.tindie.com/stores/justcallmekoko/) where I sell production level projects I have made.
+head over to my [store](https://justcallmekokollc.com) where I sell production level projects I have made.
 
 ## Introduction
 Don't know where to start? Check out [Getting Started](getting-started) or [Releases](https://github.com/justcallmekoko/ESP32Marauder/releases)
