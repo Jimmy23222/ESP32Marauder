@@ -12,7 +12,7 @@ The following documentation describes the process for installing the ESP32 Marau
     - [Bootloader](https://github.com/justcallmekoko/ESP32Marauder/raw/master/FlashFiles/MarauderV4/esp32_marauder.ino.bootloader.bin)
     - [Partitions](https://github.com/justcallmekoko/ESP32Marauder/raw/master/FlashFiles/MarauderV4/esp32_marauder.ino.partitions.bin)
     - [Boot App](https://github.com/justcallmekoko/ESP32Marauder/raw/master/FlashFiles/FlipperZeroMultiBoardS3/boot_app0.bin)
-    - The [latest release](https://github.com/justcallmekoko/ESP32Marauder/releases/tag/latest) of the ESP32 Marauder firmware
+    - The [latest release](https://github.com/justcallmekoko/ESP32Marauder/releases/latest) of the ESP32 Marauder firmware
         - **For this device, the firmware name schema is `esp32_marauder_vX_X_X_XXXXXXXX_v6_1.bin`**
 2. Download, unzip, and open the [Espressif Flash Download Tool](https://github.com/justcallmekoko/ESP32Marauder/raw/master/FlashFiles/flash_download_tool_3.9.5.zip)
     - Chip Type: `ESP32`
@@ -53,7 +53,7 @@ The following documentation describes the process for installing the ESP32 Marau
     - [Bootloader](https://github.com/justcallmekoko/ESP32Marauder/raw/master/FlashFiles/MarauderV4/esp32_marauder.ino.bootloader.bin)
     - [Partitions](https://github.com/justcallmekoko/ESP32Marauder/raw/master/FlashFiles/MarauderV4/esp32_marauder.ino.partitions.bin)
     - [Boot App](https://github.com/justcallmekoko/ESP32Marauder/raw/master/FlashFiles/FlipperZeroMultiBoardS3/boot_app0.bin)
-    - The [latest release](https://github.com/justcallmekoko/ESP32Marauder/releases/tag/latest) of the ESP32 Marauder firmware
+    - The [latest release](https://github.com/justcallmekoko/ESP32Marauder/releases/latest) of the ESP32 Marauder firmware
         - **For this device, the firmware name schema is `esp32_marauder_vX_X_X_XXXXXXXX_mini.bin`**
 2. Download, unzip, and open the [Espressif Flash Download Tool](https://github.com/justcallmekoko/ESP32Marauder/raw/master/FlashFiles/flash_download_tool_3.9.5.zip)
     - Chip Type: `ESP32`
